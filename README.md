@@ -1,3 +1,3 @@
 # Starting github
 <br/>
- thias is first line
+ this is first line
